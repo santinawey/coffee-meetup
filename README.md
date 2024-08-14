@@ -1,0 +1,1 @@
+This project provides you with code to set up a random coffee chat with colleagues. Read more about it in the following medium article: https://medium.com/@dataweys/brew-strong-connections-creating-a-cross-team-coffee-meetup-part-ii-c2f9f52c38d2
